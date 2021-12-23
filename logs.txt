@@ -1,0 +1,27 @@
+20:42:59,332 TunAugmentor INFO Applying Rotation on 5 images
+20:43:11,629 TunAugmentor INFO Applying Transpose on 5 images
+20:43:11,630 TunAugmentor INFO Applying Flip on 5 images
+20:43:11,631 TunAugmentor INFO Applying FlipVertical on 5 images
+20:43:11,631 TunAugmentor INFO Applying FlipHorizontal on 5 images
+20:43:11,632 TunAugmentor INFO Applying Translation on 5 images
+20:43:11,638 TunAugmentor INFO Applying TranslationX on 5 images
+20:43:11,644 TunAugmentor INFO Applying TranslationY on 5 images
+20:43:11,650 TunAugmentor INFO Applying CenterZoom on 5 images
+20:43:11,710 TunAugmentor INFO Applying ColorModification on 5 images
+20:43:11,723 TunAugmentor INFO Applying AddGaussianNoise on 5 images
+20:43:11,946 TunAugmentor INFO Applying ChangeBrightness on 5 images
+20:43:11,981 TunAugmentor INFO Completed
+20:43:11,982 TunAugmentor INFO Applying Rotation on 5 images
+20:43:23,768 TunAugmentor INFO Applying Transpose on 5 images
+20:43:23,769 TunAugmentor INFO Applying Flip on 5 images
+20:43:23,769 TunAugmentor INFO Applying FlipVertical on 5 images
+20:43:23,770 TunAugmentor INFO Applying FlipHorizontal on 5 images
+20:43:23,771 TunAugmentor INFO Applying Translation on 5 images
+20:43:23,773 TunAugmentor INFO Applying TranslationX on 5 images
+20:43:23,776 TunAugmentor INFO Applying TranslationY on 5 images
+20:43:23,780 TunAugmentor INFO Applying CenterZoom on 5 images
+20:43:23,832 TunAugmentor INFO Applying ColorModification on 5 images
+20:43:23,844 TunAugmentor INFO Applying AddGaussianNoise on 5 images
+20:43:24,58 TunAugmentor INFO Applying ChangeBrightness on 5 images
+20:43:24,90 TunAugmentor INFO Completed
+20:44:43,839 numexpr.utils INFO NumExpr defaulting to 8 threads.
